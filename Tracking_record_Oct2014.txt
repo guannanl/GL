@@ -1,3 +1,0 @@
-%% All tracking was done prior to 10062014
-%% All tracking raw tiffs are saved in GL_passport\Density_analysis 
-

@@ -31,7 +31,7 @@ trakcno = ind - 1;
 clear Centr ind TempCentr track
 
 %% Manual track number
-tk =  34
+tk =  34;
 tk = 8;
 
 %% Plot Tracks
